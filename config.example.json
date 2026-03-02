@@ -1,0 +1,14 @@
+{
+  "facebook": {
+    "page_id": "YOUR_PAGE_ID",
+    "access_token": "YOUR_FACEBOOK_PAGE_ACCESS_TOKEN"
+  },
+  "youtube": {
+    "channel_id": "YOUR_CHANNEL_ID",
+    "access_token": "YOUR_YOUTUBE_ACCESS_TOKEN"
+  },
+  "tiktok": {
+    "open_id": "YOUR_TIKTOK_OPEN_ID",
+    "access_token": "YOUR_TIKTOK_ACCESS_TOKEN"
+  }
+}

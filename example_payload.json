@@ -1,0 +1,11 @@
+{
+  "video_path": "./sample.mp4",
+  "title": "My first short",
+  "description": "Cross-posting short clip",
+  "hashtags": ["#shorts", "#viral", "#demo"],
+  "privacy": {
+    "facebook": "EVERYONE",
+    "youtube": "public",
+    "tiktok": "PUBLIC_TO_EVERYONE"
+  }
+}
